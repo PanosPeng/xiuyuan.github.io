@@ -1,10 +1,10 @@
-<!-- <figure markdown>
-  ![Image title](./image/xiuyuan_icon.png){ width="300" }
-</figure> -->
 <figure markdown>
+  ![Image title](./image/xiuyuan_icon.png){ width="300" }
+</figure>
+<!-- <figure markdown>
   <img src="./image/lehu_icon.png" alt="Another Image title" style="width:300px; display:inline-block;margin-right:50px;">
   <img src="./image/xiuyuan_icon.png" alt="Image title" style="width:300px; display:inline-block;">
-</figure>
+</figure> -->
 # Welcome to **乐湖修远**
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
