@@ -1,4 +1,4 @@
-site_name: My docs
+site_name: 乐湖修远
 site_url: https://mydomain.org/mysite
 ite_author: PanosPeng
 # 代码仓库信息
@@ -7,9 +7,59 @@ repo_url: https://github.com/PanosPeng/xiuyuan.github.io.git # 仓库地址
 
 # 版权信息
 copyright: Copyright &copy; 2024 ~ now |   PanosPeng
+# 主题配置
 theme:
   name: material
   language: zh
+  logo: image/lehu_icon.png # 默认路径在docs/下
+  features: # 功能  
+    - announce.dismiss # 可以叉掉公告的功能
+    - content.code.copy # 复制代码按钮
+    - content.tooltips # 不太清楚呢这个
+    # - header.autohide # 自动隐藏header
+    - navigation.expand # 默认展开导航栏
+    - navigation.footer # 底部导航栏
+    - navigation.indexes # 索引按钮可以直接触发文件，而不是只能点击其下属选项浏览，这个功能可以给对应的section提供很好的预览和导航功能
+    - navigation.instant.prefetch # 预加载
+    - navigation.instant.progress # 进度条
+    - navigation.path # 导航路径， 目前好像没啥用
+    - navigation.sections # 导航栏的section
+    - navigation.tabs # 顶级索引被作为tab
+    - navigation.tabs.sticky # tab始终可见
+    - navigation.top # 开启顶部导航栏
+    - navigation.tracking # 导航栏跟踪
+    - search.highlight # 搜索高亮
+    - search.share # 搜索分享
+    - search.suggest # 搜索建议
+    - toc.follow # 目录跟踪-页面右侧的小目录
+    # - toc.integrate # 目录跟踪集成到左侧大目录中
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo # 顶栏颜色
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+font: # 字体，大概率不需要换
+    text: Roboto
+    code: Roboto Mono
+favicon: assets/favicon.png # 网站图标 似乎不需要管
+icon: # 一些用到的icon
+  logo: logo
+  previous: fontawesome/solid/angle-left
+  next: fontawesome/solid/angle-right
+  tag:
+    default-tag: fontawesome/solid/tag
+    hardware-tag: fontawesome/solid/microchip
+    software-tag: fontawesome/solid/laptop-code
 
 markdown_extensions:
   - attr_list
