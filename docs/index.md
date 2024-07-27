@@ -8,6 +8,9 @@
 
 # 🔭 海纳百川，有容乃大
 
+!!! quote
+    **Stay Hungry, Stay Foolish**
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
