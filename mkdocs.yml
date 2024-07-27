@@ -11,4 +11,8 @@ theme:
   name: material
   language: zh
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - footnotes
 # 社交角标
