@@ -6,7 +6,7 @@ repo_name: PanosPeng/xiuyuan # 仓库名称
 repo_url: https://github.com/PanosPeng/xiuyuan.github.io.git # 仓库地址
 
 # 版权信息
-copyright: Copyright &copy; 2023 ~ now |   Shuaiwen Cui (Shaun)
+copyright: Copyright &copy; 2024 ~ now |   PanosPeng
 theme:
   name: material
   language: zh
