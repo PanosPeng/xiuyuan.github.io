@@ -11,18 +11,5 @@
 !!! quote
     **Stay Hungry, Stay Foolish**
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.fsfs
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.å
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 🎙️ 开场白
+欢迎来到乐湖修远！请点击顶部或左侧的导航栏开始探索。
