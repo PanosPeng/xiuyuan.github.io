@@ -67,9 +67,14 @@ icon: # 一些用到的icon
 nav: 
   - 首页: 
       - 首页: "index.md"
+      - 前言: "./HOME/preface.md"
+      - 如何使用这本书: "./HOME/usage_docs.md"
+      - 一个仅供参考的升学规划 : "./HOME/planning.md"
       - 关于: "./HOME/about.md"
-  - CS: 
-      - "./CS/CS.md"
+  - 计算机: 
+      - 计算机: "./CS_BASE/cs.md"
+
+
 
 # Extensions
 markdown_extensions:
@@ -120,4 +125,3 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-# 社交角标
