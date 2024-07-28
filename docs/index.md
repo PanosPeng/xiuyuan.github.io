@@ -9,7 +9,7 @@
 # 🔭 海纳百川，有容乃大
 
 !!! quote
-    **Stay Hungry, Stay Foolish**
+    **Stay Hungry, Stay Foolish**
 
 ## 🎙️ 开场白
 欢迎来到乐湖修远！请点击顶部或左侧的导航栏开始探索。

@@ -66,7 +66,7 @@ icon: # 一些用到的icon
 # 
 nav: 
   - 首页: 
-      - "index.md"
+      - 首页: "index.md"
       - 关于: "./HOME/about.md"
   - CS: 
       - "./CS/CS.md"
