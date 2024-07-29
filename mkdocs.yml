@@ -17,14 +17,12 @@ theme:
     - announce.dismiss # 可以叉掉公告的功能
     - content.code.copy # 复制代码按钮
     - content.tooltips # 不太清楚呢这个
-    # - header.autohide # 自动隐藏header
-    - navigation.expand # 默认展开导航栏
+    - header.autohide # 自动隐藏header
     - navigation.footer # 底部导航栏
     - navigation.indexes # 索引按钮可以直接触发文件，而不是只能点击其下属选项浏览，这个功能可以给对应的section提供很好的预览和导航功能
     - navigation.instant.prefetch # 预加载
     - navigation.instant.progress # 进度条
     - navigation.path # 导航路径， 目前好像没啥用
-    - navigation.sections # 导航栏的section
     - navigation.tabs # 顶级索引被作为tab
     - navigation.tabs.sticky # tab始终可见
     - navigation.top # 开启顶部导航栏
@@ -71,9 +69,39 @@ nav:
       - 如何使用这本书: "./HOME/usage_docs.md"
       - 一个仅供参考的升学规划 : "./HOME/planning.md"
       - 关于: "./HOME/about.md"
-  - 计算机: 
-      - 计算机: "./CS_BASE/cs.md"
+  - 计算机科学: 
+      - 前言: "./CS_BASE/preface.md"
+      - 准备工作: 
+        - 餐前点心: "./CS_BASE/Tools/dessert.md"
+        - IDE: "./CS_BASE/Tools/ide.md"
+        - Linux: "./CS_BASE/Tools/linux.md"
+        - Git: "./CS_BASE/Tools/git.md"
+        - Github: "./CS_BASE/Tools/github.md"
+        - GPT is all you need: "./CS_BASE/Tools/ai_tools.md"
 
+      - 编程入门:
+        - Python: "./CS_BASE/Introduction2Programming/python.md"
+        - C语言: "./CS_BASE/Introduction2Programming/c.md"
+        - 计算机系统基础: "./CS_BASE/Introduction2Programming/csapp.md"
+      - 数学基础:
+        - 离散数学: "./CS_BASE/math/Discrete_math.md"
+      - 数据结构与算法:
+        - 简单数据结构: "./CS_BASE/DSandAlgorthim/DS.md"
+        - 算法进阶: "./CS_BASE/DSandAlgorthim/algorithm.md"
+      - 数据科学:
+        - 大数据分析: "./CS_BASE/Data_science/big_data.md"
+      - 数学建模:
+        - 美赛数学建模: "./CS_BASE/Math_modeling/MCM.md"
+      - 机器学习:
+        - 传统机器学习: "./CS_BASE/Machine_learning/ml.md"
+      - 深度学习:
+        - 深度学习基础: "./CS_BASE/Deep_learning/dl_basic.md"
+        - 计算机视觉: "./CS_BASE/Deep_learning/cv.md"
+        - 自然语言处理: "./CS_BASE/Deep_learning/nlp.md"
+      - 大语言模型:
+        - 大语言模型: "./CS_BASE/LLM/llm.md"
+        - 多模态大模型: "./CS_BASE/LLM/vllm.md"
+        - 智能体大模型: "./CS_BASE/LLM/agent.md"
 
 
 # Extensions
