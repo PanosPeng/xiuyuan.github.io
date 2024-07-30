@@ -13,7 +13,7 @@ theme:
   language: zh
   logo: image/lehu_icon.png # 默认路径在docs/下
   favicon: image/lehu_icon.png
-  features: # 功能  
+  features: # 功能1
     - announce.dismiss # 可以叉掉公告的功能
     - content.code.copy # 复制代码按钮
     - content.tooltips # 不太清楚呢这个
