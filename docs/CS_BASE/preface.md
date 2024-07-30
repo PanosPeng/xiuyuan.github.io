@@ -3,7 +3,7 @@
     **It's not important where you are right now, it's important what direction you're headed.**
 
 # 前言
-这是一份针对非CS类专业同学的自学指南，编者主要来自清华、人大高瓴人工智能学院、CMU。
+这是一份针对非CS类专业同学的学习指南，编者主要来自清华、人大高瓴人工智能学院、CMU。
 
 本指南目前包括了以下部分(如果你有其他好的建议，或者想加入贡献的行列，欢迎在本网站的 issue 里提问)：
 

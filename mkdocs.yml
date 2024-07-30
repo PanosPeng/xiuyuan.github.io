@@ -67,7 +67,8 @@ nav:
       - 首页: "index.md"
       - 前言: "./HOME/preface.md"
       - 如何使用这本书: "./HOME/usage_docs.md"
-      - 一个仅供参考的升学规划 : "./HOME/planning.md"
+      - 几条中法学子的经典升学路径 : "./HOME/academic_planning.md"
+      - 中法学子未来可能的就业方向 : "./HOME/jobs.md"
       - 关于: "./HOME/about.md"
   - 计算机科学: 
       - 前言: "./CS_BASE/preface.md"
