@@ -68,7 +68,16 @@ nav:
       - 前言: "./HOME/preface.md"
       - 如何使用这本书: "./HOME/usage_docs.md"
       - 几条中法学子的经典升学路径 : "./HOME/academic_planning.md"
-      - 中法学子未来可能的就业方向 : "./HOME/jobs.md"
+      - 中法学子未来可能的就业方向:
+        - 传统金融行业: "./HOME/jobs/jobs.md"
+        - 量化金融: "./HOME/jobs/jobs1.md"
+        - 互联网: "./HOME/jobs/jobs2.md"
+        - AI、大语言模型: "./HOME/jobs/jobs3.md"
+        - 快销: "./HOME/jobs/jobs4.md"
+        - 公务员: "./HOME/jobs/jobs5.md"
+        - 泛体制: "./HOME/jobs/jobs6.md"
+        - 教育行业: "./HOME/jobs/jobs7.md"
+        - 失业（创业）: "./HOME/jobs/jobs8.md"
       - 关于: "./HOME/about.md"
   - 计算机科学: 
       - 前言: "./CS_BASE/preface.md"
