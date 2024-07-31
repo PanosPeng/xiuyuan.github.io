@@ -67,6 +67,7 @@ nav:
       - 首页: "index.md"
       - 前言: "./HOME/preface.md"
       - 如何使用这本书: "./HOME/usage_docs.md"
+      - 初入中法——大一篇: "./HOME/first_year.md"
       - 几条中法学子的经典升学路径 : "./HOME/academic_planning.md"
       - 中法学子未来可能的就业方向:
         - 传统金融行业: "./HOME/jobs/jobs.md"
