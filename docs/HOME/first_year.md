@@ -75,7 +75,7 @@
     [:octicons-arrow-right-24: <a href="https://mp.weixin.qq.com/s/cN9UfU4qf2_02-FOgVKXTw" target="_blank"> "i乐湖"传送门 </a>](#)
 
     <figure markdown>
-    ![Image title](./QRcode.png){ width="150" }
+    ![Image title](./QRcode.png){ width="500" }
     </figure>
 
 </div>
