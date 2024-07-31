@@ -60,3 +60,19 @@
 
 ## **大四学年**
 大四上学期基本处于申请季，配合中介/自行diy完成文书和投递的工作，等待offer即可。
+
+
+## **联系我们**
+<div class="grid cards" markdown>
+
+-   :fontawesome-brands-weixin:{ .lg .middle } __官方公众号__
+
+    ---
+
+    [:octicons-arrow-right-24: <a href="https://mp.weixin.qq.com/s/cN9UfU4qf2_02-FOgVKXTw" target="_blank"> "i乐湖"传送门 </a>](#)
+
+    <figure markdown>
+    ![Image title](../../QRcode.png){ width="500" }
+    </figure>
+
+</div>
