@@ -68,7 +68,19 @@ nav:
       - 前言: "./HOME/preface.md"
       - 如何使用这本书: "./HOME/usage_docs.md"
       - 初入中法——大一篇: "./HOME/first_year.md"
-      - 几条中法学子的经典升学路径 : "./HOME/academic_planning.md"
+      - 几条中法学子的经典升学路径 :
+        - 传统金融方向: 
+          - 海外申请: "./HOME/academic_planning/Traditional_Finance/abroad.md"
+          - 内地升学: "./HOME/academic_planning/Traditional_Finance/domestic.md"
+        - 偏量化方向: 
+          - 海外申请: "./HOME/academic_planning/Quantitative_Finance/abroad.md"
+          - 内地升学: "./HOME/academic_planning/Quantitative_Finance/domestic.md"
+        - 纯量化方向: 
+          - 海外申请: "./HOME/academic_planning/Pure_Quantitative/abroad.md"
+          - 内地升学: "./HOME/academic_planning/Pure_Quantitative/domestic.md"
+        - 经济学术方向: 
+          - 海外申请: "./HOME/academic_planning/Economic_Academic/abroad.md"
+          - 内地升学: "./HOME/academic_planning/Economic_Academic/domestic.md"
       - 中法学子未来可能的就业方向:
         - 传统金融行业: "./HOME/jobs/jobs.md"
         - 量化金融: "./HOME/jobs/jobs1.md"
@@ -113,7 +125,6 @@ nav:
         - 大语言模型: "./CS_BASE/LLM/llm.md"
         - 多模态大模型: "./CS_BASE/LLM/vllm.md"
         - 智能体大模型: "./CS_BASE/LLM/agent.md"
-
 
 # Extensions
 markdown_extensions:

@@ -35,7 +35,7 @@
 ## **大一寒假**
 大一上结束的寒假建议巩固所学的法语内容并且适度预习大一下的内容，数学部分建议预习微积分下的内容。
 
-学有余力者可以在寒假提前预习 **宏观经济学** 以及系统学习[Python（本站计算机篇）](http://127.0.0.1:8000/mysite/CS_BASE/Introduction2Programming/python)的内容。
+学有余力者可以在寒假提前预习 **宏观经济学** 以及系统学习[Python（本站计算机篇）](https://panospeng.github.io/xiuyuan.github.io/CS_BASE/Introduction2Programming/python/)的内容。
 
 ## **大一下学期**
 大一下学期内重点关注以下课程：
