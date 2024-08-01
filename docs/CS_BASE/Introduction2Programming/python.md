@@ -1,5 +1,5 @@
 <figure markdown>
-![Image title](./python_image/python.png)
+![Image title](./python_image/python.png){ width="450" }
 </figure>
 
 本教程简单介绍了 Python 语言概念和功能，主要针对非CS类专业的读者，由于篇幅限制本教程只是抛砖引玉，文末附带了推荐学习的课程和书籍以供进一步的学习。
