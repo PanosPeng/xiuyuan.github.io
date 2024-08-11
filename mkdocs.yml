@@ -88,7 +88,7 @@ nav:
         - AI、大语言模型: "./HOME/jobs/jobs3.md"
         - 快销: "./HOME/jobs/jobs4.md"
         - 公务员: "./HOME/jobs/jobs5.md"
-        - 泛体制: "./HOME/jobs/jobs6.md"
+        - 国央企（泛体制）: "./HOME/jobs/guoqi.md"
         - 教育行业: "./HOME/jobs/jobs7.md"
         - 失业（创业）: "./HOME/jobs/jobs8.md"
       - 关于: "./HOME/about.md"
@@ -175,3 +175,11 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+
+# 网站流量监视
+extra:
+  analytics:
+    # google analysis
+    provider: google
+    property: G-D6ZJ00MSYW
