@@ -2,262 +2,210 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mydomain.org/mysite/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/space/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/preface/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/DSandAlgorthim/DS/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/DSandAlgorthim/algorithm/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Data_science/big_data/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Deep_learning/cv/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Deep_learning/dl_basic/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Deep_learning/nlp/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Introduction2Programming/c/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Introduction2Programming/csapp/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Introduction2Programming/python/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/LLM/agent/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/LLM/llm/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/LLM/vllm/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Machine_learning/ml/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Math_modeling/MCM/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Tools/ai_tools/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Tools/dessert/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Tools/git/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Tools/github/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Tools/ide/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/Tools/linux/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/CS_BASE/math/Discrete_math/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/about/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/academic_planning/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/first_year/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/jobs/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/planning/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/preface/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/usage_docs/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/academic_planning/Economic_Academic/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/academic_planning/Pure_Quantitative/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/academic_planning/Quantitative_Finance/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/academic_planning/Traditional_Finance/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/academic_planning/Economic_Academic/abroad/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/academic_planning/Economic_Academic/domestic/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/academic_planning/Pure_Quantitative/abroad/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/academic_planning/Pure_Quantitative/domestic/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/academic_planning/Quantitative_Finance/abroad/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/academic_planning/Quantitative_Finance/domestic/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/academic_planning/Traditional_Finance/abroad/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/academic_planning/Traditional_Finance/domestic/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/HOME/jobs/guoqi/</loc>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/jobs/jobs/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/jobs/jobs1/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/jobs/jobs2/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/jobs/jobs3/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/jobs/jobs4/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/jobs/jobs5/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mydomain.org/mysite/HOME/jobs/jobs6/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/jobs/jobs7/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/HOME/jobs/jobs8/</loc>
-         <lastmod>2024-07-31</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-27</lastmod>
     </url>
 </urlset>
